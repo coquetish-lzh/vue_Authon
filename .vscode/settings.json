@@ -1,0 +1,10 @@
+{
+    "eggHelper.serverPort": 48672,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "json.schemaDownload.enable": false
+}
