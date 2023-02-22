@@ -50,7 +50,7 @@ const props=defineProps({
         default:"50px"
     },
     buttons:{
-        type:Array
+        type:Array,
     },
     showCancel:{
         type:Boolean,
